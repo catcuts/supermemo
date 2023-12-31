@@ -1,0 +1,14 @@
+SuperMemo Report
+   Activity: Mercy rescheduling
+   Collection: D:\Documents\project\sm18-lazy-package-1.3.1\sm18\systems\all in one
+   Date: Tuesday, October 31, 2023, 6:41:53 PM
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+Rescheduling elements
+Scheduling repetitions on 10/31/2023
+
+Process completed at 6:41:53 PM in 00:00:00 sec (Tuesday, October 31, 2023)
+
+NO ERRORS (Mercy rescheduling)
+
+____________________________________________________________

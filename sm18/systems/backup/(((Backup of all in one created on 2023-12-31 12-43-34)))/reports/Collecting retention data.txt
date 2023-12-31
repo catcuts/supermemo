@@ -1,0 +1,13 @@
+SuperMemo Report
+   Activity: Collecting retention data
+   Collection: D:\Documents\project\sm18-lazy-package-1.3.1\sm18\systems\all in one
+   Date: Friday, October 20, 2023, 9:54:35 PM
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+Retention data errors can be ignored
+
+Process completed at 9:54:35 PM in 00:00:00 sec (Friday, October 20, 2023)
+
+NO ERRORS (Collecting retention data)
+
+____________________________________________________________

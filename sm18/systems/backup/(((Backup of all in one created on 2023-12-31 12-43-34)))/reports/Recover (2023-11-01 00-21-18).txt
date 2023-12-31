@@ -1,0 +1,158 @@
+SuperMemo Report
+   Activity: Checking the integrity of the collection
+   Collection: D:\Documents\project\sm18-lazy-package-1.3.1\sm18\systems\all in one
+   Date: Wednesday, November 1, 2023, 12:21:18 AM
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+Checking 316 element records (ElementInfo.dat)
+Verifying integrity of element data (316 elements in ElementInfo.dat)
+++++++++++++++++++++++    ERROR #1   ++++++++++++++++++++++
+   Wrong deleted element count
+   Expected: 9
+   Found:    8
+   Last no:  316
+   Total:    307
+++++++++++++++++++++++    ERROR #2   ++++++++++++++++++++++
+   Memorized has been corrected from 179 to 180
+++++++++++++++++++++++    ERROR #3   ++++++++++++++++++++++
+   Item Burden has been corrected from 19.33163 to 17.48225
+++++++++++++++++++++++    ERROR #4   ++++++++++++++++++++++
+   Topic Burden has been corrected from 46.94563 to 32.59563
+++++++++++++++++++++++    ERROR #5   ++++++++++++++++++++++
+   Avg Item Reps has been corrected from 1.85075 to 2.02985
+++++++++++++++++++++++    ERROR #6   ++++++++++++++++++++++
+   Avg Topic Reps has been corrected from 1.26786 to 1.70796
+++++++++++++++++++++++    ERROR #7   ++++++++++++++++++++++
+   Avg Laps has been corrected from 0.20896 to 0.22388
+++++++++++++++++++++++    ERROR #8   ++++++++++++++++++++++
+   Avg Item Interval has been corrected from 13.41791 to 14.37313
+++++++++++++++++++++++    ERROR #9   ++++++++++++++++++++++
+   Avg Topic Interval has been corrected from 3.70536 to 4.20354
+++++++++++++++++++++++    ERROR #10   ++++++++++++++++++++++
+   Avg Last Item Rep has been corrected from 11.44776 to 12
+++++++++++++++++++++++    ERROR #11   ++++++++++++++++++++++
+   Avg Last Topic Rep has been corrected from 9.59821 to 10.30088
+++++++++++++++++++++++    ERROR #12   ++++++++++++++++++++++
+   Avg Item A-Factor has been corrected from 2.76215 to 2.90201
+++++++++++++++++++++++    ERROR #13   ++++++++++++++++++++++
+   Avg Topic A-Factor has been corrected from 1.26799 to 1.2772
+Verifying knowledge tree (316 elements in Contents.dat)
+++++++++++++++++++++++    ERROR #14   ++++++++++++++++++++++
+   Wrong descendant count at Concept #1: ALL IN ONE
+   Found=307
+   Reported=306
+Reviewing children and descendant counts due to errors in the tree structure
+Verifying the priority queue of 308 elements
+++++++++++++++++++++++    ERROR #15   ++++++++++++++++++++++
+   Element #156 missing from the priority queue
+++++++++++++++++++++++    ERROR #16   ++++++++++++++++++++++
+   Element #176 missing from the priority queue
+++++++++++++++++++++++    ERROR #17   ++++++++++++++++++++++
+   Element #194 missing from the priority queue
+++++++++++++++++++++++    ERROR #18   ++++++++++++++++++++++
+   Element #279 missing from the priority queue
+++++++++++++++++++++++    ERROR #19   ++++++++++++++++++++++
+   Element #288 missing from the priority queue
+++++++++++++++++++++++    ERROR #20   ++++++++++++++++++++++
+   Element #289 missing from the priority queue
+++++++++++++++++++++++    ERROR #21   ++++++++++++++++++++++
+   Element #294 missing from the priority queue
+++++++++++++++++++++++    ERROR #22   ++++++++++++++++++++++
+   Element #307 missing from the priority queue
+Verifying repetition schedule (Workload.dat and ElementInfo.dat)
+Verifying pending queue (Intact.dat)
+Verifying A-Factor, Lapses and Repetitions distributions
+++++++++++++++++++++++    ERROR #23   ++++++++++++++++++++++
+   A-Factor distribution discrepancy in category 7
+   Items reported: 6
+   Items found:    1
+++++++++++++++++++++++    ERROR #24   ++++++++++++++++++++++
+   A-Factor distribution discrepancy in category 9
+   Items reported: 1
+   Items found:    0
+++++++++++++++++++++++    ERROR #25   ++++++++++++++++++++++
+   A-Factor distribution discrepancy in category 10
+   Items reported: 27
+   Items found:    23
+++++++++++++++++++++++    ERROR #26   ++++++++++++++++++++++
+   Topic A-Factor distribution discrepancy in category 7
+   Topics reported: 2
+   Topics found:    0
+++++++++++++++++++++++    ERROR #27   ++++++++++++++++++++++
+   Topic A-Factor distribution discrepancy in category 8
+   Topics reported: 87
+   Topics found:    79
+++++++++++++++++++++++    ERROR #28   ++++++++++++++++++++++
+   Topic A-Factor distribution discrepancy in category 9
+   Topics reported: 7
+   Topics found:    18
+++++++++++++++++++++++    ERROR #29   ++++++++++++++++++++++
+   Item interval distribution discrepancy in category 1
+   Items reported: 7
+   Items found:    8
+++++++++++++++++++++++    ERROR #30   ++++++++++++++++++++++
+   Item interval distribution discrepancy in category 2
+   Items reported: 7
+   Items found:    5
+++++++++++++++++++++++    ERROR #31   ++++++++++++++++++++++
+   Item interval distribution discrepancy in category 3
+   Items reported: 20
+   Items found:    9
+++++++++++++++++++++++    ERROR #32   ++++++++++++++++++++++
+   Item interval distribution discrepancy in category 4
+   Items reported: 10
+   Items found:    17
+++++++++++++++++++++++    ERROR #33   ++++++++++++++++++++++
+   Item interval distribution discrepancy in category 5
+   Items reported: 6
+   Items found:    8
+++++++++++++++++++++++    ERROR #34   ++++++++++++++++++++++
+   Topic interval distribution discrepancy in category 1
+   Topics reported: 24
+   Topics found:    4
+++++++++++++++++++++++    ERROR #35   ++++++++++++++++++++++
+   Topic interval distribution discrepancy in category 2
+   Topics reported: 12
+   Topics found:    9
+++++++++++++++++++++++    ERROR #36   ++++++++++++++++++++++
+   Topic interval distribution discrepancy in category 3
+   Topics reported: 41
+   Topics found:    60
+++++++++++++++++++++++    ERROR #37   ++++++++++++++++++++++
+   Topic interval distribution discrepancy in category 4
+   Topics reported: 34
+   Topics found:    39
+++++++++++++++++++++++    ERROR #38   ++++++++++++++++++++++
+   Repetition distribution discrepancy in category 1
+   Items reported: 41
+   Items found:    30
+++++++++++++++++++++++    ERROR #39   ++++++++++++++++++++++
+   Repetition distribution discrepancy in category 2
+   Items reported: 5
+   Items found:    15
+++++++++++++++++++++++    ERROR #40   ++++++++++++++++++++++
+   Repetition distribution discrepancy in category 3
+   Items reported: 11
+   Items found:    12
+++++++++++++++++++++++    ERROR #41   ++++++++++++++++++++++
+   Topic review distribution discrepancy in category 1
+   Topics reported: 107
+   Topics found:    73
+++++++++++++++++++++++    ERROR #42   ++++++++++++++++++++++
+   Topic review distribution discrepancy in category 2
+   Topics reported: 0
+   Topics found:    16
+++++++++++++++++++++++    ERROR #43   ++++++++++++++++++++++
+   Topic review distribution discrepancy in category 3
+   Topics reported: 0
+   Topics found:    11
+++++++++++++++++++++++    ERROR #44   ++++++++++++++++++++++
+   Lapses distribution discrepancy in category 1
+   Items reported: 54
+   Items found:    53
+
+Process completed at 12:21:18 AM in 00:00:00 sec (Wednesday, November 1, 2023)
+
+44 ERRORS (Checking the integrity of the collection)
+
+____________________________________________________________

@@ -1,0 +1,40 @@
+SuperMemo Report
+   Activity: Operation: dismiss elements
+   Collection: D:\Documents\project\sm18-lazy-package-1.3.1\sm18\systems\all in one
+   Date: Tuesday, October 31, 2023, 7:35:19 PM
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+++++++++++++++++++++++    ERROR #1   ++++++++++++++++++++++
+   Wrong A-Factor distribution in category #16
+++++++++++++++++++++++    ERROR #2   ++++++++++++++++++++++
+   Wrong A-Factor distribution in category #15
+++++++++++++++++++++++    ERROR #3   ++++++++++++++++++++++
+   Wrong A-Factor distribution in category #8
+++++++++++++++++++++++    ERROR #4   ++++++++++++++++++++++
+   Wrong A-Factor distribution in category #16
+++++++++++++++++++++++    ERROR #5   ++++++++++++++++++++++
+   Wrong A-Factor distribution in category #15
+++++++++++++++++++++++    ERROR #6   ++++++++++++++++++++++
+   Wrong A-Factor distribution in category #13
+++++++++++++++++++++++    ERROR #7   ++++++++++++++++++++++
+   Wrong repetition distribution for category #3
+++++++++++++++++++++++    ERROR #8   ++++++++++++++++++++++
+   Wrong repetition distribution for category #3
+++++++++++++++++++++++    ERROR #9   ++++++++++++++++++++++
+   Wrong repetition distribution for category #3
+++++++++++++++++++++++    ERROR #10   ++++++++++++++++++++++
+   Wrong repetition distribution for category #3
+++++++++++++++++++++++    ERROR #11   ++++++++++++++++++++++
+   Wrong repetition distribution for category #2
+++++++++++++++++++++++    ERROR #12   ++++++++++++++++++++++
+   Wrong repetition distribution for category #2
+++++++++++++++++++++++    ERROR #13   ++++++++++++++++++++++
+   Wrong repetition distribution for category #2
+++++++++++++++++++++++    ERROR #14   ++++++++++++++++++++++
+   Wrong repetition distribution for category #2
+
+Process completed at 7:35:19 PM in 00:00:00 sec (Tuesday, October 31, 2023)
+
+14 ERRORS (Operation: dismiss elements)
+
+____________________________________________________________
